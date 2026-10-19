@@ -6,7 +6,7 @@ I'm a computer science student at the University of Basel. I work with **Java, P
 
 A cooperative 2D platformer for two players, built with Unity and C#. I developed it as my **Matura thesis**, completed in **2023** and graded **6.0**. It was my first major Unity project. I programmed the game and designed the backgrounds and platforms myself; the other game graphics and sounds came from OpenGameArt.org.
 
-[Play on itch.io](https://tml-sili.itch.io/wizards) · [Source](https://github.com/TML-Sili/we-wizards)
+[Code](https://github.com/TML-Sili/we-wizards) · [Play](https://tml-sili.itch.io/wizards) 
 
 ## Other projects
 
